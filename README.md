@@ -41,6 +41,13 @@ Phottiは最高にスマートな写真管理アプリです。
 ※このアプリは「写真」アプリから写真、ビデオを読み込んでいます。「写真」アプリから写真を消すと、このアプリからも削除されます。
 ※このアプリから写真、ビデオそのものを削除することはできません。
 
+# App Storeでのスクリーンショット
+![](https://github.com/ifapmzadu6/Photti-oldversion/blob/master/screen568x568-1.jpeg)
+![](https://github.com/ifapmzadu6/Photti-oldversion/blob/master/screen568x568-2.jpeg)
+![](https://github.com/ifapmzadu6/Photti-oldversion/blob/master/screen568x568-3.jpeg)
+![](https://github.com/ifapmzadu6/Photti-oldversion/blob/master/screen568x568-4.jpeg)
+![](https://github.com/ifapmzadu6/Photti-oldversion/blob/master/screen568x568-5.jpeg)
+
 # Licenses
 
 All source code is licensed under the [MIT License](https://github.com/ifapmzadu6/Photti-oldversion/blob/master/LICENSE).
